@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shraddha Tripathi</h1>
 <h3 align="center">A passionate full-Stack developer from Gr.Noida , India.</h3>
 
-<p align="left"> <img src="https://www.vecteezy.com/video/28735181-diverse-multi-ethnic-team-in-office-indian-female-and-black-male-it-programmers-working-on-desktop-computer-specialists-creating-software-engineers-developing-app-program-shifting-rack-focus" alt="1906shra" /> </p>
+<p align="left"> <img src="https://media0.giphy.com/media/fIzuzNTc8qcdW/200.webp?cid=ecf05e47zbtqdc5687v199r4nwig2zmefss95ro97gcdtqt5&ep=v1_gifs_search&rid=200.webp&ct=g" alt="1906shra" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=1906shra" alt="1906shra" /></a> </p>
 
