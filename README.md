@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shraddha Tripathi</h1>
 <h3 align="center">A passionate full-Stack developer from Gr.Noida , India.</h3>
 
-<p align="left"> <img src="https://cdn.vectorstock.com/i/1000v/15/84/girl-work-at-laptop-pc-drinking-coffee-vector-46231584.jpg" alt="1906shra" /> </p>
+<p align="left"> <img src="https://static.vecteezy.com/system/resources/thumbnails/023/870/280/small_2x/happy-woman-sitting-with-computer-laptop-and-a-cup-of-coffee-with-read-heart-shape-label-smiling-and-looking-at-computer-screen-drawing-illustration-png.png" alt="1906shra" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -15,4 +15,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=1906shra&show_icons=true&locale=en" alt="1906shra" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=1906shra&" alt="1906shra" /></p>
